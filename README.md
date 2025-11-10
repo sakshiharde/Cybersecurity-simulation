@@ -1,5 +1,8 @@
 # 🚨 Cybersecurity Intrusion Detection & Log Analysis
 Machine-Learning & Rule-Based Threat Detection | SOC-Style Analysis
+<p align="center"> 
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK1afa0VHCiy5UKzMDiDB3p8rSHv9jntdVDw&s">
+</p>
 
 This project analyzes network session logs and builds a hybrid rule-based + ML intrusion detection system to detect malicious activities such as:
 
